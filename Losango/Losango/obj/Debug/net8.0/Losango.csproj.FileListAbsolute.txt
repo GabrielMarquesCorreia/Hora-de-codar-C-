@@ -1,0 +1,14 @@
+C:\Users\gabriel.correia\Documents\C#\Losango\Losango\bin\Debug\net8.0\Losango.exe
+C:\Users\gabriel.correia\Documents\C#\Losango\Losango\bin\Debug\net8.0\Losango.deps.json
+C:\Users\gabriel.correia\Documents\C#\Losango\Losango\bin\Debug\net8.0\Losango.runtimeconfig.json
+C:\Users\gabriel.correia\Documents\C#\Losango\Losango\bin\Debug\net8.0\Losango.dll
+C:\Users\gabriel.correia\Documents\C#\Losango\Losango\bin\Debug\net8.0\Losango.pdb
+C:\Users\gabriel.correia\Documents\C#\Losango\Losango\obj\Debug\net8.0\Losango.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.correia\Documents\C#\Losango\Losango\obj\Debug\net8.0\Losango.AssemblyInfoInputs.cache
+C:\Users\gabriel.correia\Documents\C#\Losango\Losango\obj\Debug\net8.0\Losango.AssemblyInfo.cs
+C:\Users\gabriel.correia\Documents\C#\Losango\Losango\obj\Debug\net8.0\Losango.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.correia\Documents\C#\Losango\Losango\obj\Debug\net8.0\Losango.dll
+C:\Users\gabriel.correia\Documents\C#\Losango\Losango\obj\Debug\net8.0\refint\Losango.dll
+C:\Users\gabriel.correia\Documents\C#\Losango\Losango\obj\Debug\net8.0\Losango.pdb
+C:\Users\gabriel.correia\Documents\C#\Losango\Losango\obj\Debug\net8.0\Losango.genruntimeconfig.cache
+C:\Users\gabriel.correia\Documents\C#\Losango\Losango\obj\Debug\net8.0\ref\Losango.dll
